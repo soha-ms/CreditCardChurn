@@ -12,9 +12,8 @@ To run the analysis and view the churn prediction models, execute the script on 
 
 ![Distribution of Some Feature](./output/histFeatures.png)
 ![Distribution of Some Feature](./output/plotFeautures1.png)
+![](./output/plotbox.png)
 ![Receiver Operating Characteristic](./output/roc.png)
-![ROC](./output/roc1.png)
-![](./output/plotboxpng)
 
 
 ## Timeline
